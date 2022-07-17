@@ -7,7 +7,7 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+//some thing new add..
 @Entity
 @Table(name = "notes")
 public class Note {
